@@ -4,5 +4,6 @@
    <name>AndroidRun1</name>
    <tag></tag>
    <comment></comment>
+   <recordOption>OTHER</recordOption>
    <testCaseGuid>c5471fee-f907-4296-992b-74afa43fb9c3</testCaseGuid>
 </TestCaseEntity>
