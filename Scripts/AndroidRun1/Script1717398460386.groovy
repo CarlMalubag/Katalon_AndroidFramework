@@ -21,7 +21,7 @@ Mobile.startApplication('../General-Store.apk', true)
 
 Mobile.pressBack()
 
-Mobile.sendKeys(findTestObject('Object Repository/android.widget.EditText - Enter name here'), 'aasssddd')
+Mobile.sendKeys(findTestObject('Object Repository/android.widget.EditText - Enter name here'), 'test2')
 
 Mobile.tap(findTestObject('Object Repository/android.widget.Button - Lets  Shop'), 0)
 
